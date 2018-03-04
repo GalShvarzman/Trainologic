@@ -1,0 +1,8 @@
+{
+  "name": "trainologic-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search.js",
+  "author": "Gal Shvarzman",
+  "license": "ISC"
+}
